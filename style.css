@@ -1,12 +1,12 @@
 /* ===== VARIABLES: aquí vive toda la identidad visual ===== */
 :root {
-  --bg: #0f172a;          /* azul muy oscuro, casi negro */
-  --bg-soft: #16213e;      /* azul oscuro para tarjetas */
-  --text: #e6e8ef;         /* texto principal, casi blanco */
-  --text-dim: #9aa3b8;     /* texto secundario, gris azulado */
-  --accent: #ffd43b;       /* amarillo Python, para resaltar */
-  --accent-2: #4b8bbe;     /* azul Python, para detalles */
-  --border: #263254;
+  --bg: #0d1321;          /* azul-negro, sofisticado */
+  --bg-soft: #1a2332;      /* tarjetas, un tono más claro */
+  --text: #eef1f7;         /* texto principal, casi blanco */
+  --text-dim: #9aa5b8;     /* texto secundario */
+  --accent: #3d8bfd;       /* azul confianza — títulos y detalles */
+  --accent-2: #f0a83a;     /* dorado cálido — botones y CTAs */
+  --border: #263449;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
